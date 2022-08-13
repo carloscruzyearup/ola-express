@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/newmanix/ola-express-sm22-10.git"
+    "url": "git+https://github.com/carloscruzyearup/ola-express.git"
   },
   "author": "Bill Newman",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/newmanix/ola-express-sm22-10/issues"
+    "url": "https://github.com/carloscruzyearup/ola-express/issues"
   },
-  "homepage": "https://github.com/newmanix/ola-express-sm22-10#readme",
+  "homepage": "https://github.com/carloscruzyearup/ola-express#readme",
   "dependencies": {
     "express": "^4.18.1"
   }
